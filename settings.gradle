@@ -1,0 +1,3 @@
+include ':app', ':pinui'
+rootProject.name='PinUiAndroid'
+rootProject.name = 'artifact'

@@ -1,0 +1,6 @@
+<resources>
+<string name="app_name">Pin UI</string>
+<declare-styleable name="PinUiEditText">
+    <attr name="length" format="integer"/>
+</declare-styleable>
+</resources>
